@@ -1,0 +1,14 @@
+C:\Users\asp\Desktop\New-C-Sharp\bin\Debug\net7.0\New-C-Sharp.exe
+C:\Users\asp\Desktop\New-C-Sharp\bin\Debug\net7.0\New-C-Sharp.deps.json
+C:\Users\asp\Desktop\New-C-Sharp\bin\Debug\net7.0\New-C-Sharp.runtimeconfig.json
+C:\Users\asp\Desktop\New-C-Sharp\bin\Debug\net7.0\New-C-Sharp.dll
+C:\Users\asp\Desktop\New-C-Sharp\bin\Debug\net7.0\New-C-Sharp.pdb
+C:\Users\asp\Desktop\New-C-Sharp\obj\Debug\net7.0\New-C-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asp\Desktop\New-C-Sharp\obj\Debug\net7.0\New-C-Sharp.AssemblyInfoInputs.cache
+C:\Users\asp\Desktop\New-C-Sharp\obj\Debug\net7.0\New-C-Sharp.AssemblyInfo.cs
+C:\Users\asp\Desktop\New-C-Sharp\obj\Debug\net7.0\New-C-Sharp.csproj.CoreCompileInputs.cache
+C:\Users\asp\Desktop\New-C-Sharp\obj\Debug\net7.0\New-C-Sharp.dll
+C:\Users\asp\Desktop\New-C-Sharp\obj\Debug\net7.0\refint\New-C-Sharp.dll
+C:\Users\asp\Desktop\New-C-Sharp\obj\Debug\net7.0\New-C-Sharp.pdb
+C:\Users\asp\Desktop\New-C-Sharp\obj\Debug\net7.0\New-C-Sharp.genruntimeconfig.cache
+C:\Users\asp\Desktop\New-C-Sharp\obj\Debug\net7.0\ref\New-C-Sharp.dll
